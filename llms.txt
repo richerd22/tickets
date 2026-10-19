@@ -1,0 +1,42 @@
+# tickets.cold.fyi
+
+> The Ticket: how a concert ticket gets from artist to fan. Every hand the ticket passes through, every fee added and who keeps it, the contracts that made it this way, the two times someone tried to fight it, and the lawsuits still deciding what happens next. Published by Third Polar Arch. Last verified October 15, 2026.
+
+## The short version
+
+A concert ticket is not a product. It is a revenue stream that several companies drink from in a specific order. The GAO measured combined fees averaging 27% of face value (2018). The venue sets the service fee, not Ticketmaster - the venue keeps roughly two-thirds. 54% of major-event tickets never reach the general public (NY AG, 2016). Artists themselves are often the biggest source of resale tickets.
+
+## Sections
+
+- 0. The $50 ticket that costs $78 - the checkout-screen moment
+- 1. Anatomy of a fee - service fee, facility charge, order processing, delivery; who sets and keeps each; the 1982 hinge (Fred Rosen's venue fee-share deals)
+- 2. Where the money goes - the BBC's £150 Oasis breakdown (artist 62.4%, VAT 16.6%, fees 11%, promoter 6.9%, royalties 3%); Clyde Lawrence's Senate math
+- 3. Who chooses the ticketer - the venue, via multiyear exclusive contracts; VENU Holding 2026 filing; the March 2026 settlement terms
+- 4. Who owns primary ticketing - Ticketmaster 80%+ (DOJ), AXS/AEG, Paciolan, Etix, See Tickets/CTS Eventim, DICE/Fever, Eventbrite/Bending Spoons
+- 5. The tickets that never reach the public - 54% (NY AG); the presale ladder; Bieber 2012 Nashville (7% reached public); Budnick & Baron's artist-scalping finding
+- 6. Dynamic pricing - Official Platinum, Pricemaster; The Cure opt-out ($68.54 avg); Dimension 20 ($2,000+); Oasis/CMA undertakings
+- 7. The second market - StubHub, SeatGeek, Vivid Seats, TM Resale; 40-49% average markups; ghost tickets; CA AB 1349
+- 8. The bots - BOTS Act (2016); Prestige Entertainment; Sept 2025 FTC suit; Sept 28, 2026 ruling (BOTS Act reaches platforms)
+- 9. 1994: the first war - Pearl Jam vs. Ticketmaster ($3.75 on $18)
+- 10. 2022-2023: the second war - Eras Tour (3.5B requests); Senate hearing "That's The Ticket"
+- 11. 2024-2026: the lawsuits - DOJ suit; March 2026 settlement; April 15, 2026 jury verdict ($1.72/ticket overcharge); Tunney Act review (pending); FTC Junk Fees Rule
+- 12. The world responds - Colorado, DC RESALE Act, UK cap, NY, TICKET Act, MAIN Event Ticketing Act
+- 13. The alternatives - DICE, face-value communities, artist-direct, Verified Fan
+- 14. Open questions
+
+## Key figures (all sourced in the guide)
+
+- Fees average 27% of face value (GAO-18-347)
+- Venue sets service fees, keeps ~two-thirds (Ticketmaster's own materials)
+- Ticketmaster: 80%+ of major-venue primary ticketing (DOJ)
+- 54% of tickets never reach the general public (NY AG 2016)
+- April 15, 2026: jury found illegal monopolization; $1.72/ticket overcharge in 22 states
+- FTC Junk Fees Rule effective May 12, 2025; max penalty $53,088/violation
+
+## Method
+
+Every factual claim is footnoted to a source. Company figures are presented as company claims. Pending legal matters are labeled pending. Where no solid source was found, the claim was left out. Corrections: hello@thirdpolararch.com.
+
+## Canonical URL
+
+https://tickets.cold.fyi/
